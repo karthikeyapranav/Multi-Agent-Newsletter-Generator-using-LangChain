@@ -1,4 +1,4 @@
-# 📰 Web3 Daily Digest: Automated Newsletter Generator
+#  Web3 Daily Digest: Automated Newsletter Generator
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![AI Powered](https://img.shields.io/badge/AI%20Powered-Summarization-FF69B4.svg)](https://en.wikipedia.org/wiki/Natural_language_processing)
@@ -10,7 +10,7 @@ Welcome to the **Web3 Daily Digest**, an automated solution designed to keep you
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 This newsletter generator is packed with functionalities to ensure you receive timely, relevant, and easy-to-digest news:
 
@@ -23,7 +23,7 @@ This newsletter generator is packed with functionalities to ensure you receive t
 
 ---
 
-## 📡 Current News Sources
+##  Current News Sources
 
 We prioritize a mix of reliable RSS feeds for efficiency and targeted HTML scraping for sources without comprehensive feeds.
 
@@ -35,7 +35,7 @@ We prioritize a mix of reliable RSS feeds for efficiency and targeted HTML scrap
 
 ---
 
-## ⚙️ Setup & Quick Start
+##  Setup & Quick Start
 
 Getting your daily Web3 newsletter up and running is quick and easy!
 
@@ -72,7 +72,7 @@ Getting your daily Web3 newsletter up and running is quick and easy!
 
 ---
 
-## 🔧 Advanced Configuration
+##  Advanced Configuration
 
 The `config.py` file provides extensive options for customizing your newsletter:
 
@@ -113,7 +113,7 @@ The `config.py` file provides extensive options for customizing your newsletter:
 
 ---
 
-## 🪲 Troubleshooting Common Issues
+##  Troubleshooting Common Issues
 
 Encountering issues? Here are some common problems and their solutions:
 
@@ -138,7 +138,7 @@ Encountering issues? Here are some common problems and their solutions:
 
 ---
 
-## ⚡ Optimization & Best Practices
+##  Optimization & Best Practices
 
 To ensure efficient and ethical scraping, consider these tips:
 
@@ -150,7 +150,7 @@ To ensure efficient and ethical scraping, consider these tips:
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 This project can be further enhanced with more advanced features:
 
@@ -164,12 +164,12 @@ This project can be further enhanced with more advanced features:
 
 ---
 
-## 🤝 Contribution
+##  Contribution
 
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-sourced under the [MIT License](LICENSE).
